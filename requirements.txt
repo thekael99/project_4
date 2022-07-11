@@ -1,4 +1,4 @@
-opencv-python
+opencv-python-headless
 h5py
 matplotlib
 numpy
@@ -8,3 +8,4 @@ scikit-learn
 pillow
 ipykernel
 tensorflow
+streamlit
